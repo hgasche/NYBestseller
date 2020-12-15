@@ -7,8 +7,7 @@ This is a student group project of the University of St.Gallen within the scope 
 The program at hand works in / with Python3. ##?
 
 *Further Instructions:*
-First, please start the file “main.py” that contains the whole code to successfully run the program
-##ich nehme an, man muss hier erklären, dass die bestseller liste geadded werden muss im den code zu runnen damit dieser darauf zurpckgreifen kann
+In order to run the code, please first download both, the file that contains our python code “main.py” as well as the .txt file with the underlying data to successfully run the program. Next, please upload both files to a Python platform of your choice, such as Repl.it, where the main code can be pasted onto a new file and the .txt file uploaded in the same folder such that the code can draw information from the dataset. Once both files are uploaded, the code can be runned and the first console asking the user to enter input appears.
 
 *Files:*
 Code: /main.py
