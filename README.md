@@ -35,7 +35,7 @@ Input dataset in txt: /bestsellers.txt
 
 
 
-**Further Description:**
+**Further Remarks:**
 
-Take care: Words in both, the book titles as well as the names of the authors are not separated in the bestellers.txt file and will, hence, also not be separated in the output.
+Take care: Words in both, the book titles as well as the names of the authors are not separated by a scape in the initial bestellers.txt file and will, hence, also not be separated in the output.
 
