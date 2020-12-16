@@ -17,7 +17,7 @@ The program will continue to execute until the user selects “Q” (or “q”)
 
 **Prerequisites:**
 
-The program at hand works with Python3. In order to run it, no additional libraries need to be installed. Please read the whole "readme" content to succesfully run the program.
+The program at hand works with Python3. In order to run it, no additional libraries need to be installed. Please read the whole "readme" content to successfully run the program.
 
 
 
