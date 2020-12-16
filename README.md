@@ -1,5 +1,5 @@
 # NYBestseller
-Group Project | New York Times Bestseller List
+Python Group Project | New York Times Bestseller List
 
 **About:**
 
