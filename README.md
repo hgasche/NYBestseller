@@ -2,6 +2,7 @@
 Group Project | New York Times Bestseller List
 
 **About**
+
 This is a student group project of the University of St. Gallen within the scope of the course “Programming with Advanced Computer Languages”. 
 This Python Project is based on a comprehensive list of New York Times (NYT) bestseller books (fiction & non-fiction) since the year 1942. It aims to design, implement, and test a program that allows a user to search for a subset of bestseller books which have appeared in the NYT bestseller lists. To do so, the user can choose inquiries from a list of search requests, insert individual search requests and, thereby, receive a personalized list of books based on the input parameters. The user can search the books by the following menu options:
 
