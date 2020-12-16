@@ -14,8 +14,11 @@ Q. The program quits the search query
 The program will continue to execute until the user selects “Q” (or “q”) as the menu option.
 
 
+
 **Prerequisites**
+
 The program at hand works with Python3. In order to run it, no additional libraries need to be installed.
+
 
 
 **Instructions**
@@ -24,11 +27,15 @@ The program at hand works with Python3. In order to run it, no additional librar
 In order to run the code, please first download both, the file that contains our python code “main.py” as well as the .txt file with the underlying data to successfully run the program. Next, please upload both files to a Python platform of your choice, such as Repl.it, where the main code can be pasted onto a new file and the .txt file uploaded in the same folder such that the code can draw information from the dataset. Once both files are uploaded, the code can be run and the first console asking the user to enter input appears.
 
 
+
 **Files**
+
 Code: /main.py
 Input dataset in txt: /bestsellers.txt
 
 
+
 **Further Description**
+
 Take care: Words in both, the book titles as well as the names of the authors are not separated in the bestellers.txt file and will, hence, also not be separated in the output.
 
